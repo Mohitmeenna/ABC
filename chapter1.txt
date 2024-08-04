@@ -1,1 +1,13 @@
 i am mohit meena 
+touch chapter1.txt
+code chapter1.txt 
+git init
+ls -a
+git status
+git add chapter1.txt
+git status
+git commit -m "complete chapter 1 "
+git log 
+git add . -> for adding all the files to staging area
+git diff chap3.txt
+git checkout chap3.txt
